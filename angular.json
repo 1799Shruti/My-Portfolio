@@ -27,7 +27,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/shruti-portfolio/",
+              "baseHref": "/My-Portfolio/",
               "budgets": [
                 { "type": "initial", "maximumWarning": "500kB", "maximumError": "2MB" },
                 { "type": "anyComponentStyle", "maximumWarning": "4kB", "maximumError": "16kB" }
